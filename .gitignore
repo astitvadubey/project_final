@@ -1,0 +1,6 @@
+# Ignore .terraform folder
+.terraform/
+secrets.tfvars
+provider.tf
+variables.tf
+secrets.tfvars
